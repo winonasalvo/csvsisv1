@@ -1,5 +1,5 @@
 
-# CCC151 SSIS School Final Project
+# CCC151 SSIS Final Project
 Overview
 This project is an application developed as a final project for CCC151 - Information Management.The application utilizes CSV files as its database source.
 
