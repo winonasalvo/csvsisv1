@@ -1,5 +1,5 @@
 
-# CCC151 CVSIS Final Project
+# CCC151 CSVSIS Final Project
 Overview
 This project is an application developed as a final project for CCC151 - Information Management.The application utilizes CSV files as its database source.
 
